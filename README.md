@@ -1,6 +1,6 @@
 ## Inteligencia Artificial Aplicada a la Química: Desde los SMILES hasta Modelos de Machine Learning
 
-Curso/charla docente (CEMADIS) que recorre el pipeline completo de cheminformática y ciencia de datos aplicada a moléculas, desde la representación digital de compuestos hasta modelos predictivos de machine learning.
+Curso/charla docente  que recorre el pipeline completo de cheminformática y ciencia de datos aplicada a moléculas, desde la representación digital de compuestos hasta modelos predictivos de machine learning.
 
 ### Puntos importantes
 
